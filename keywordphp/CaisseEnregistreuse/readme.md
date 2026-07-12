@@ -1,0 +1,2 @@
+- **Classe Parente** : Caisse
+- **Classe Fille** : CaissePremium
